@@ -1,4 +1,1 @@
-prac initial 2
-dev
-feature
-list 
+prac initial 2 
